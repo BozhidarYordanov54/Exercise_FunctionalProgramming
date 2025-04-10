@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/bin/Debug/net9.0/02_CustomMinFunction
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/bin/Debug/net9.0/02_CustomMinFunction.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/bin/Debug/net9.0/02_CustomMinFunction.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/bin/Debug/net9.0/02_CustomMinFunction.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/bin/Debug/net9.0/02_CustomMinFunction.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/refint/02_CustomMinFunction.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/02_CustomMinFunction.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/02_CustomMinFunction/obj/Debug/net9.0/ref/02_CustomMinFunction.dll

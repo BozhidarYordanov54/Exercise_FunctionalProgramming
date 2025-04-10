@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/bin/Debug/net9.0/04_AddArithemtic
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/bin/Debug/net9.0/04_AddArithemtic.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/bin/Debug/net9.0/04_AddArithemtic.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/bin/Debug/net9.0/04_AddArithemtic.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/bin/Debug/net9.0/04_AddArithemtic.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/refint/04_AddArithemtic.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/04_AddArithemtic.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/04_AddArithemtic/obj/Debug/net9.0/ref/04_AddArithemtic.dll

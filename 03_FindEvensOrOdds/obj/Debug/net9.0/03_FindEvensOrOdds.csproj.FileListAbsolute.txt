@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/bin/Debug/net9.0/03_FindEvensOrOdds
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/bin/Debug/net9.0/03_FindEvensOrOdds.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/bin/Debug/net9.0/03_FindEvensOrOdds.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/bin/Debug/net9.0/03_FindEvensOrOdds.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/bin/Debug/net9.0/03_FindEvensOrOdds.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/refint/03_FindEvensOrOdds.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/03_FindEvensOrOdds.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Functional_Programming/Exercise_FunctionalProgramming/03_FindEvensOrOdds/obj/Debug/net9.0/ref/03_FindEvensOrOdds.dll
